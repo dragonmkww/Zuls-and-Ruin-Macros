@@ -4,8 +4,8 @@ Just download the zip files from releases to use them. Yes, these are the offici
 
 You can scan every single file with Virustotal if you want, none of them are viruses.
 
-For Zuls macro if u dont have a license key then use the AHK scripts and change the keybinds using VSCode, it's the same thing just without a GUI.
+For Zuls macro if you dont have a license key then use the AHK scripts and change the keybinds using VSCode, it's the same thing just without a GUI.
 
-If there's any problems using them make an issue.
+If there's any problems using them just make an issue and I'll try to help.
 
 Enjoy!
